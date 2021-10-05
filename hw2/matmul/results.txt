@@ -1,0 +1,19 @@
+runtime 0.000310 seconds
+runtime 0.000261 seconds
+runtime 0.000234 seconds
+runtime 0.000235 seconds
+runtime 0.000240 seconds
+average runtime of 512-sized mtr X vector is 0.000256 seconds
+---------------------------------
+average runtime of 500 matmul (kij) is 0.046360 seconds
+---------------------------------
+average runtime of 512 matmul (kij) is 0.088172 seconds
+---------------------------------
+average runtime of 1000 matmul (kij) is 0.636920 seconds
+---------------------------------
+average runtime of 1024 matmul (kij) is 1.233189 seconds
+---------------------------------
+average runtime of 2000 matmul (kij) is 5.882410 seconds
+---------------------------------
+average runtime of 2048 matmul (kij) is 10.886812 seconds
+---------------------------------
