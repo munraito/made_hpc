@@ -1,2 +1,4 @@
-# High Performance Computing (MADE course 3rd semester)
+# High Performance Computing 
 Высокопроизводительные вычисления
+
+(MADE course 3rd semester)
