@@ -1,0 +1,2 @@
+Worked on 8 threads, did 67108864 steps, time elapsed = 0.202914 seconds
+Pi estimation = 3.141695
