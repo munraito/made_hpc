@@ -1,0 +1,19 @@
+==> nodes_2.txt <==
+time elapsed: 1.1343450546264648 seconds
+Done
+
+==> nodes_3.txt <==
+time elapsed: 1.5746486186981201 seconds
+Done
+
+==> nodes_4.txt <==
+time elapsed: 0.7814774513244629 seconds
+Done
+
+==> nodes_5.txt <==
+time elapsed: 1.5328450202941895 seconds
+Done
+
+==> nodes_6.txt <==
+time elapsed: 0.7527294158935547 seconds
+Done
