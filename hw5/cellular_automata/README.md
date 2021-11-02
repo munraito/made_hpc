@@ -10,4 +10,4 @@ for i in {2..6}; do sbatch --output nproc_$i.txt -n $i submit.sh; done
 tail -n +1 *.txt >res_times.txt
 ```
 
-saved images are in `/visualize_results`
+saved images are in [visualize_results](/visualize_results)
