@@ -3,4 +3,4 @@
 Весь пайплайн в тетрадке [demo.ipynb](demo.ipynb)
 
 
-![task description](task.png)
+![task description](task7.png)
